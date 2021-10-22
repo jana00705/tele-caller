@@ -40,7 +40,7 @@
             <b-card img-height="100">
               <b-card-text>
                 <img
-                  src="settings.png"
+                  src="configAgent.png"
                   height="100"
                   alt=""
                 /><br />
